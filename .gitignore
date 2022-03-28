@@ -1,0 +1,5 @@
+.idea/
+venv
+/error_logs
+recipes_to_scrape/
+recipe_json_files/*
